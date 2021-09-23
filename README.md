@@ -10,11 +10,18 @@ REQUIREMENTS:
 - Powershell
 
 HOW TO USE:
+
 1.) Execute script
+
 2.) You will be prompted for a name for your output file, type filename (no extension) and then press Enter to continue
+
 3.) Script will then create an output .csv file and write to host file location
+
 4.) Open this output file, copy all of the contents (besides the headers)
+
 5.) Open your POA&M templated excel file
+
 6.) Paste copied contents into POA&M templated file
+
 
 You now have a POA&M created from ACAS results! This is great for keeping up to date monthly and maintaining a proactive security posture.
